@@ -1,0 +1,5 @@
+user_id,source_user,interaction_count
+u1,u2,3
+u1,u3,2
+u2,u4,5
+u3,u4,1
